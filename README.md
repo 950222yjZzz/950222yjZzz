@@ -6,6 +6,6 @@
 - ⚡ Fun fact: nerd
 
 <!---
-950222yjZzz/950222yjZzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chieh Yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
